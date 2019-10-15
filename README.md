@@ -17,4 +17,4 @@ yeast_dnaMe/
 
 └── SA
 
-	 bash script calling SA, Notebook generating motif logos- if possible
+|	 bash script calling SA, Notebook generating motif logos- if possible
