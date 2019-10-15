@@ -28,6 +28,7 @@
 *.swp
 __pycache__/
 .ipynb_checkpoints
+**/pull.sh
 
 # Distribution / packaging
 .Python
