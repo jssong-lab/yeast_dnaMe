@@ -1,4 +1,4 @@
-# Codes associated with the paper "De novo  methylation of the K. phaffii genome is modulated by S-Adenosyl methionine level and DNMT isoform-specific sequence preferences"
+# Codes associated with the paper "Epigenetic engineering of yeast reveals dynamic molecular adaptation to methylation stress and genetic modulators of specific DNMT3 family members"
 
 ## Repository Contents
 yeast_dnaMe/
