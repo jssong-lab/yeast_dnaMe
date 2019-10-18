@@ -15,8 +15,8 @@
 
 `predictMethyl`
 
-	- `./trainingCNN.ipynb` - code to fit and evaluate convolutional neural networks to predict CpG methylation rates for 6 DNMT knock-in conditions 
-	- `CNN_params.tar.gz` - parameters for final CNN models for each of the 6 conditions
+- `./trainingCNN.ipynb` - code to fit and evaluate convolutional neural networks to predict CpG methylation rates for 6 DNMT knock-in conditions 
+- `CNN_params.tar.gz` - parameters for final CNN models for each of the 6 conditions
 
 `SA`
 
