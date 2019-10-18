@@ -25,7 +25,7 @@
 
 `cellResponse`
 
- - `geneNames.proper.txt` list mapping ID values of genes annotated in xx genome feature file to Saccharomyces Genome Database (SGD) IDs. Only genes with SGD IDs were considered for gene ontology analysis.
+ - `geneNames.proper.txt` list mapping ID values of genes annotated in the genome feature file of genome build ASM170808v1 to Saccharomyces Genome Database (SGD) IDs. Only genes with SGD IDs were considered for gene ontology analysis.
 
    
 
